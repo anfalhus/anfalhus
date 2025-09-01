@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">🎨 UI/UX Design – crafting intuitive & beautiful experiences<br><br>⚡ Front-end – React.js + Tailwind CSS + GSAP <br><br>🔧 Back-end – Laravel <br><br>📊 Databases – structured & efficient solutions</h5>
+<p align="left">🎨 UI/UX Design – crafting intuitive & beautiful experiences<br><br>⚡ Front-end – React.js + Tailwind CSS + GSAP <br><br>🔧 Back-end – Laravel <br><br>📊 Databases – structured & efficient solutions</p>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h6 align="left">✨ Diving into GSAP animations to build unique & interactive websites<br><br>🌟 Aiming to create web projects with my own identity & signature style<br><br>🎯 Goal: Mastering React & Laravel by the end of 2025</h6>
+<p align="left">✨ Diving into GSAP animations to build unique & interactive websites<br><br>🌟 Aiming to create web projects with my own identity & signature style<br><br>🎯 Goal: Mastering React & Laravel by the end of 2025</p>
 
 ###
 
