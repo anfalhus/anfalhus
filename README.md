@@ -1,5 +1,6 @@
-<h1 align="left">✨ Hi, I’m Anfal</h1>
-
+<br>
+<h1 align="center">✨ Hi, I’m Anfal</h1>
+<br>
 ###
 
 <h4 align="left">👩‍💻 Full-Stack Web Developer | UI/UX Designer | Creative Coder</h4>
