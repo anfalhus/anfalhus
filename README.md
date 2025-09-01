@@ -16,7 +16,7 @@
 <p align="left">🎨 UI/UX Design – crafting intuitive & beautiful experiences<br><br>⚡ Front-end – React.js + Tailwind CSS + GSAP <br><br>🔧 Back-end – Laravel <br><br>📊 Databases – structured & efficient solutions</p>
 
 ###
-
+<br><br>
 <h2 align="left">🛠️ Tech Stack</h2>
 
 ###
@@ -58,7 +58,7 @@
 </div>
 
 ###
-
+<br><br>
 <h2 align="left">🌱 Currently Learning</h2>
 
 ###
@@ -66,7 +66,7 @@
 <p align="left">✨ Diving into GSAP animations to build unique & interactive websites<br><br>🌟 Aiming to create web projects with my own identity & signature style<br><br>🎯 Goal: Mastering React & Laravel by the end of 2025</p>
 
 ###
-
+<br><br>
 <h2 align="left">💼 Projects</h2>
 
 ###
@@ -94,7 +94,7 @@
 <h6 align="left">Design and development of a company profile website with a strong emphasis on showcasing the Arab identity.<br><br>Skills: HTML · CSS · JavaScript · Photoshop · Frontend · UI/UX Designer</h6>
 
 ###
-
+<br><br>
 <h2 align="left">👩‍💻 Some Facts About Me</h2>
 
 ###
@@ -106,7 +106,7 @@
 <h2 align="left">👩‍💻 Some Facts About Me</h2>
 
 ###
-
+<br><br>
 <img src="https://raw.githubusercontent.com/anfalhus/anfalhus/output/snake.svg" alt="Snake animation" />
 
 ###
