@@ -144,18 +144,11 @@
 
  
 <br><br>
+
 <h2 align="left">👩‍💻 Some Facts About Me</h2>
-
- 
-
 <p align="left">🏆 Nominated for Saudi Skills 2020 by my college faculty<br><br>🥇 1st place winner in Best UI Designer Competition for the Saudi recruitment platform Wazafni<br><br>🎨 Photoshop designer & content creator since I was 10 years old<br><br>🎮 Gamer & tech enthusiast</p>
 
- 
-
-<h2 align="left">👩‍💻 Some Facts About Me</h2>
-
- 
-<br><br>
+<h1 align="center">THANK YOU✨</h1>
 <img src="https://raw.githubusercontent.com/anfalhus/anfalhus/output/snake.svg" alt="Snake animation" />
 
  
