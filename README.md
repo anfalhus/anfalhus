@@ -1,7 +1,6 @@
 
 <h1 align="center">✨ Hi, I’m Anfal </h1>
 
-<br>
 <h4 align="center">👩‍💻 Full-Stack Web Developer | UI/UX Designer | Creative Coder</h4>
 
 <p align="center">I’m passionate about developing modern, scalable, and user-friendly web applications<br>that combine creativity and precision✨.</p>
