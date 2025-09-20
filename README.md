@@ -11,7 +11,7 @@
 
  
 
-<p align="left">🎨 UI/UX Design – crafting intuitive & beautiful experiences<br><br>⚡ Front-end – React.js + Tailwind CSS + GSAP <br><br>🔧 Back-end – Laravel <br><br>📊 Databases – structured & efficient solutions</p>
+<p align="left">🎨 UI/UX Design – crafting intuitive & beautiful experiences<br><br>⚡ Front-end – React.js + Next.js + Tailwind CSS + GSAP <br><br>🔧 Back-end – Laravel <br><br>📊 Databases – structured & efficient solutions</p>
 
  
 <br><br>
