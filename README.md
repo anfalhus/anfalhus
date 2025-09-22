@@ -74,7 +74,7 @@
  
 
 <p align="left">Development of a childcare management system including registrations, payments, and daily updates.</p>
-<h6 align="left">Skills: React.js · Laravel · MySQL · Tailwind CSS · Figma · Frontend · Backend · UI/UX Designer · Full-Stack Development · Photoshop · Database · Graphic Design</h6>
+<h6 align="left">Skills: Next.js · Laravel · API · MySQL · Tailwind CSS · Figma · Frontend · Backend · UI/UX Designer · Full-Stack Development · Photoshop · Database · Graphic Design</h6>
 <a href="https://www.figma.com/design/1QoflCvyUSf5dA49azokly/Childcare-Website?node-id=0-1" target="_blank">
   <img src="https://img.shields.io/badge/🌸 View Project 🌸-9b59b6?style=flat-rounded&logo=figma&logoColor=white"/>
 </a>
