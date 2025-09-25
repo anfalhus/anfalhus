@@ -61,7 +61,7 @@
 
  
 
-<p align="left">✨ Diving into GSAP animations to build unique & interactive websites<br><br>🌟 Aiming to create web projects with my own identity & signature style<br><br>🎯 Goal: Mastering React & Laravel by the end of 2025</p>
+<p align="left">✨ Diving into GSAP animations to build unique & interactive websites<br><br>🌟 Aiming to create web projects with my own identity & signature style<br><br>🎯 Goal: Mastering React/Next.js & Laravel by the end of 2025</p>
 
  
 <br><br>
